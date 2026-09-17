@@ -1,0 +1,17 @@
+---
+title: "Lipid analysis database "
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/lipid.png
+categories: [AMLR,static]
+description: Placeholder for lipid analysis database description
+---
+
+Local MS Access file, archived and in Shared Drive
+
+[Lipid content and stable isotopes of zooplankton during five winters around the northern Antarctic Peninsula](https://www.nature.com/articles/s41597-020-00722-9)

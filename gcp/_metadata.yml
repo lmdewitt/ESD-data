@@ -1,0 +1,12 @@
+# data/_metadata.yml
+# This applies to every document inside the posts/ folder automatically
+
+format:
+  html:
+    include-before-body:
+      text: |
+        <div class="back-nav" style="margin-top: 20px; margin-bottom: -10px;">
+          <a href="/data/index.html" style="text-decoration: none; color: #555;">
+            &larr; Back to ESD Data menu
+          </a>
+        </div><br>

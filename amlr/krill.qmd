@@ -1,0 +1,19 @@
+---
+title: "Krill Models"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/krill.jpg
+categories: [AMLR,static]
+description: Placeholder for lipid analysis database description
+---
+
+Published models
+
+* [Casal2 krill model](https://github.com/SWFSC/Casal2-krill-model)
+* [MCMC analysis using Casal2 of krill spawning stock biomass and CCAMLR decision rules](https://github.com/SWFSC/Casal2-krill-model-mcmc)
+* [krill length-frequencies from penguin diets years 1977-2020 added to model described in 'Casal-krill-model-mcmc](https://github.com/SWFSC/Casal2-krill-model-diet_lfs)

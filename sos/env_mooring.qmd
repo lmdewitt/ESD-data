@@ -1,0 +1,16 @@
+---
+title: "Environmental Mooring"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/env_mooring.png
+categories: [SOS,active,moorings]
+description: Mooring data - environmental
+---
+
+*  Some Google Drive, some GCS Buckets
+*  Needs much cleaning time, and archiving

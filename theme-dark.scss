@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+$font-family: "Atkinson Hyperlegible", sans-serif;
+
+// Base document colors
+$body-bg: #181818;
+$body-color: white;
+$link-color: #75AADB;
+
+$light: #525252;
+
+// Navigation element colors
+$footer-bg: #181818;
+$navbar-bg: #303030;
+$sidebar-bg: #181818;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+// Bootstrap popovers
+$popover-bg: #242424;
+
+// Bootstrap inputs
+$input-bg: #242424;
+
+.card-img-top img {
+  border-radius: 5%;
+  width: 95%;
+  height: 95%;
+  object-fit: contain;
+  margin: 1rem auto; /* Centers the image */
+}
+.quarto-grid-item div{
+  padding:5px;
+}
+.card-body h5{
+  font-weight: 600;
+}
+.card-body .card-text p{
+  text-align: center;
+}
+.quarto-grid-item.card-center .listing-description {
+  text-align: center;
+}

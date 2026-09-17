@@ -1,0 +1,16 @@
+---
+title: "Active Acoustic Glider Data"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/acoustic_glider.png
+categories: [SOS,active,gliders]
+description: Placeholder for Active Acoustic Glider Data description
+---
+
+* Data in dev buckets
+* Hopefully AA SI tie-ins, both for archiving and AI/ML processing

@@ -1,0 +1,20 @@
+---
+title: "Optical Glider Data"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/shadowgraph.png
+categories: [SOS,active,gliders]
+description: Shadowgraph images
+---
+
+[blog](https://www.fisheries.noaa.gov/science-blog/fear-unknown-and-how-unknown-becomes-known-you-know)
+
+* Imagery all in prod buckets
+* Instance of VIAME-Web deployed in prod project: <https://swfsc.github.io/viame-web-noaa-gcp/>
+* ERDDAP demo: <https://oceanview.pfeg.noaa.gov/erddap/tabledap/esd_amlr_visual_zooplankton.html>
+* Needs: See data scientist project

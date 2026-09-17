@@ -1,0 +1,17 @@
+---
+title: "Finfish trawl surveys"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/bottom_trawl.jpg
+categories: [AMLR,active]
+description: Scientific advice for the management of Antarctic finfish in the Southern Ocean
+---
+
+Local files, on their way to Shared Drives
+
+[Finfish and Benthic Research in the Antarctic](https://www.fisheries.noaa.gov/international/science-data/finfish-and-benthic-research-antarctic)

@@ -1,0 +1,23 @@
+---
+title: "GCP"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/gcp.png
+categories: [AMLR,C&E,active]
+description:  Google Cloud Platform projects
+---
+
+* Two GCP projects managed by Sam: 
+  - Dev: ggn-nmfs-usamlr-dev-7b99
+    + Sam is project/editor, can handle all permissions
+  - Prod: ggn-nmfs-swfscesd-prod-1
+    + OCIO grants permissions, although Sam is eg storage.admin
+  - Terraform code: https://github.nmfs.local/sam-woodman/esd-gcp-iac
+    + Need a) someone else familiar with Terraform and GCP project management, and b) a system for this to work with multiple people managing
+* ERDDAP project
+  - Dev: ggn-nmfs-swfscerddap-dev-1

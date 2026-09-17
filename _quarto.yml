@@ -1,0 +1,175 @@
+project: 
+  type: website
+bibliography: references.bib
+website: 
+  page-navigation: true
+  favicon: images/favicon.ico
+  back-to-top-navigation: true
+  page-footer:
+    border: true
+    center:
+      - text: "Website Owner"
+        href: https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center
+        target: _blank
+      - text: "Contact"
+        href: https://www.fisheries.noaa.gov/contact/southwest-fisheries-science-center
+        target: _blank
+      - text: "NOAA"
+        href: https://www.noaa.gov/
+        target: _blank
+      - text: "Privacy Policy"
+        href: https://www.noaa.gov/privacy.html
+        target: _blank
+      - text: "Information Quality"
+        href: https://www.noaa.gov/organization/information-technology/policy-oversight/information-quality
+        target: _blank
+      - text: "Disclaimer"
+        href: https://www.fisheries.noaa.gov/national/about-us/website-policies-and-disclaimers
+        target: _blank
+    right:
+      - text: "<img src='/images/logos/doc_logo_black.gif' style='height: 50px; width: auto;'/>"
+        href: https://www.commerce.gov/
+  navbar:
+    title: "Climate & Ecosystems Group"
+    background: $navbar-bg
+    logo: "images/noaa_logo.png"
+    favicon: images/favicon.ico
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/lmdewitt/CEG-projects
+
+    style: "docked"
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "People"
+        href: people.qmd
+  sidebar:
+    title: "Projects and Products"
+    id: main-docs
+    style: "docked"
+    collapse-level: 1
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - section: "California Commercial Landings"
+        contents:
+          - text: "About"
+            href: products/mktcatch/intro.qmd
+          - text: "Dowload"
+            href: products/mktcatch/download.qmd
+      - text: "ESD Data"
+        href: data/index.qmd
+      - section: "Extratropical-based Northern Oscillation Index"
+        contents:
+          - text: "About"
+            href: products/noix/intro.qmd
+          - text: "Dowload"
+            href: products/noix/download.qmd
+      - section: "FNMOC Products"
+        contents:
+          - text: "About"
+            href: products/fnmoc/intro.qmd
+          - text: "Model Data"
+            href: products/fnmoc/model.qmd
+          - text: "Model-Derived Products"
+            href: products/fnmoc/prods.qmd
+      - section: "Frontal Edges"
+        contents:
+          - text: "About"
+            href: products/front_edges/intro.qmd
+      - text: "Habitat Compression Index"
+        href: products/hci/hci.qmd
+      - section: "Marine Heat Wave"
+        contents:
+          - text: "Latest Conditions"
+            href: projects/mhw/latest.qmd
+          - text: "About"
+            href:  projects/mhw/about.qmd
+          - text: "Previous Updates"
+            href: projects/mhw/prev.qmd
+          - text: "Videos"
+            href: projects/mhw/videos.qmd
+          - text: "Regional EEZ MHW"
+            href: projects/mhw/regional_eez.qmd
+          - text: "References"
+            href: projects/mhw/refs.qmd
+      - section: "NorthPacificChlBlooms"
+        contents:
+          - text: "About"
+            href: projects/NorthPacificChlBlooms/about.qmd
+          - text: "Missions"
+            href: projects/NorthPacificChlBlooms/missions.qmd
+          - text: "Previous Blooms"
+            href: projects/NorthPacificChlBlooms/blooms.qmd
+      - section: "Sea Floor Gradient"
+        contents:
+          - text: "About"
+            href: products/seafloor_gradient/intro.qmd
+          - text: "Dowload"
+            href: products/seafloor_gradient/download.qmd
+      - section: "Thiamine Deficiency in California"
+        contents:
+          - text: "About"
+            href: projects/salmon_thiamine/intro.qmd
+          - text: "Central Valley Hatchery Stocks"
+            href: projects/salmon_thiamine/hatchery_ccv.qmd
+          - text: "Coastal Hatchery Stocks"
+            href: projects/salmon_thiamine/hatchery_coastal.qmd
+          - text: "Ocean Fishery"
+            href: projects/salmon_thiamine/ocean_fishery.qmd
+      - section: "Upwelling Index"
+        contents:
+          - text: "About"
+            href: projects/upwelling/intro.qmd
+          - text: "Bakun Index"
+            href:  projects/upwelling/bakun.qmd
+          - text: "CUTI and BEUTI"
+            href: projects/upwelling/cutibeuti.qmd
+          - text: "Index Comparison"
+            href: projects/upwelling/diff.qmd
+          - text: "Which index should I use?"
+            href: projects/upwelling/which.qmd
+          - text: "Downloads"
+            href: projects/upwelling/dnld.qmd
+      - section: "West Coast National Marine Sanctuaries Marine Heatwave Tracker"
+        contents:
+          - text: "Overview"
+            href: projects/sanctuary_mhw/overview.qmd
+          - text: "Olympic Coast"
+            href:  projects/sanctuary_mhw/OCNMS.qmd
+          - text: "Greater Farallones"
+            href: projects/sanctuary_mhw/GFNMS.qmd
+          - text: "Cordell Bank"
+            href: projects/sanctuary_mhw/CBNMS.qmd
+          - text: "Monterey Bay - Mainland"
+            href: projects/sanctuary_mhw/MBNMS.qmd
+          - text: "Monterey Bay - Davidson Seamount"
+            href: projects/sanctuary_mhw/DSNMS.qmd
+          - text: "Channel Islands"
+            href: projects/sanctuary_mhw/CINMS.qmd
+          - text: "MHW Calculations"
+            href: projects/sanctuary_mhw/calc.qmd
+format:
+  html:
+    backgroundcolor: "#fdfdfd"
+    theme:
+      light: [cosmo, theme.scss] 
+      dark: [cosmo, theme-dark.scss]
+    css: style.css
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    link-external-icon: true
+    toc: true
+
+filters:
+  - include-files.lua
+  - quarto
+
+engine: knitr  

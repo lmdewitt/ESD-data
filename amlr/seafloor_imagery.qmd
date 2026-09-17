@@ -1,0 +1,15 @@
+---
+title: "Seafloor imagery"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/seafloor_imagery.png
+categories: [AMLR,static]
+description: Placeholder for seafloor imagery description
+---
+
+Shared Drives

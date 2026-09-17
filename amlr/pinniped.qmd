@@ -1,0 +1,23 @@
+---
+title: Pinniped land-based studies
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/seals.jpg
+categories: [AMLR,active]
+description: Population health of Antarctic fur seals in relation to the availability of Antarctic krill. 
+---
+
+[Pinniped Research in the Antarctic](https://www.fisheries.noaa.gov/international/science-data/pinniped-research-antarctic)
+
+* Tabular data: SQL Server database, Access front end, Shiny app for access
+  - Front end: <https://github.nmfs.local/sam-woodman/amlr-pinnipeds-database>
+  - Shiny app: <https://github.com/SWFSC/tamatoamlr>
+* Samples: myriad in SWFSC collection, with collaborators
+* Field archives: Shared Drives
+* Other: see bio-logger data, UAS imagery, underwater imagery
+* POC: Sam Woodman

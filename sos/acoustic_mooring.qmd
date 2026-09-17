@@ -1,0 +1,17 @@
+---
+title: "Active Acoustic Mooring"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/acoustic_mooring.png
+categories: [SOS,active,moorings]
+description: Mooring data - active acoustics
+---
+
+* Some Google Drive, some GCS Buckets
+* Needs much cleaning time, and archiving. 
+* Hopefully AA SI tie-ins

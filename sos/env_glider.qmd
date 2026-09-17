@@ -1,0 +1,21 @@
+---
+title: "Environmental Glider Data"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/env_glider.png
+categories: [SOS,active,gliders]
+description: Placeholder for Environmental Glider Data description
+---
+
+* Raw data all in prod buckets. Working through backlog of delayed data
+* Where does data go: <https://swfsc.github.io/glider-lab-manual/content/data-management.html>
+* Base processing with <https://github.com/SWFSC/esdglider>
+* Working on processing documentation
+* Goals:
+  - Science profiles to IOOS, in delayed and moving forward in rt
+  - Other data products (eg, raw timeseries, full science timeseries, to ESD/SOS-specific ERDDAP

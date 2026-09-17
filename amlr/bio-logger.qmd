@@ -1,0 +1,17 @@
+---
+title: "Bio-logger"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/pinniped.png
+categories: [AMLR,active]
+description: Deployment of light-based geolocators (GLS) on seabird and pinnipeds
+---
+
+* [Data](https://github.com/SWFSC/amlr-gls) is scattered. On its way to Shared Drives.
+* Subsections have been [archived](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0314795)
+* High priority, needs much cleaning time, and archiving

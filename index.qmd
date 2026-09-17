@@ -1,0 +1,21 @@
+---
+title: "ESD Data Inventory"
+subtitle: "NOAA Fisheries - Southwest Fisheries Science Center - Ecosystem Sciences Division"
+page-layout: full
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+listing:
+  type: grid
+  grid-columns: 4
+  grid-item-align: center
+  categories: true
+  fields: [image,title,description,categories]
+  contents:
+      - amlr/*.qmd
+      - sos/*.qmd
+      - gcp/*.qmd
+---

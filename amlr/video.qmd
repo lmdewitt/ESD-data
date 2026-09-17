@@ -1,0 +1,19 @@
+---
+title: "Video logger imagery"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/video.png
+categories: [AMLR,active]
+description:  Underwater imagery
+---
+
+* Shared Drives
+* cams
+  - penguin cam (active)
+  - AFS cam (not active)
+  - leopard seal critter cam (not active)

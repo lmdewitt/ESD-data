@@ -1,0 +1,25 @@
+---
+title: "SOS"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/GliderDep.png
+categories: [SOS,active,gliders,moorings]
+description: Scientific Operations and Support
+---
+
+ The SOS group uses multiple autonomous marine platforms to gather physical, chemical, and biological ocean data. This data is essential for long-term ecosystem monitoring and supporting fisheries management in regions like the California Current and the Antarctic Peninsula.
+ 
+ [Glider Lab Manual](https://swfsc.github.io/glider-lab-manual/)\
+ [Glider and Mooring Database](https://docs.google.com/presentation/d/1ccMxCOCY8buNoaoQmLMc1iFEqeswLgAp895v6F202Og)
+ 
+* Glider & mooring devices/builds/deployments
+  - SQL Server database on Estrella to track devices/builds. Access front end.
+    + Front end: https://github.nmfs.local/sam-woodman/amlr-technology-database
+    + Would looove to move away from SQL Server, and Access, to something more wholistic.
+  - esdglider scrapes info from database
+* [Fleet Status](https://docs.google.com/spreadsheets/d/1tB3QNKYx8qOYYS9QZotekBAx0y-_n2d-EZPjFFdYNuU/edit?gid=0#gid=0) (working to move away from this)

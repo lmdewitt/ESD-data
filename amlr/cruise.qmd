@@ -1,0 +1,28 @@
+---
+title: "Cruise Data"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/cruise.jpg
+categories: [AMLR,static]
+description: Placeholder for cruise data description
+---
+
+### Hydrography(?)
+
+* SQL Server database on Estrella
+* **needs archiving 
+
+### Acoustics
+
+* Files in Shared Drive
+* needs archiving
+
+### Non-AMLR cruise data
+
+* SQL Server database on Estrella, restricted access. No front end
+* Data shared by collaborators - no archiving
