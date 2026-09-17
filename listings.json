@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/amlr/amlr.html",
+      "/sos/acoustic_glider.html",
+      "/sos/acoustic_mooring.html",
+      "/amlr/bio-logger.html",
+      "/amlr/cruise.html",
+      "/sos/env_glider.html",
+      "/sos/env_mooring.html",
+      "/amlr/finfish.html",
+      "/gcp/gcp.html",
+      "/amlr/krill.html",
+      "/amlr/lipid.html",
+      "/sos/optic_glider.html",
+      "/amlr/pinniped.html",
+      "/sos/sos.html",
+      "/amlr/seabird.html",
+      "/amlr/seafloor_imagery.html",
+      "/amlr/uas.html",
+      "/amlr/video.html"
+    ]
+  }
+]
