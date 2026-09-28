@@ -65,6 +65,8 @@ website:
         contents:
           - text: "CalCOFI"
             href: https://oceanview.pfeg.noaa.gov/erddap/search/advanced.html?searchFor=erdCalCOFI
+          - text: "Shadowgraph"
+            href: https://oceanview.pfeg.noaa.gov/erddap/tabledap/esd_amlr_visual_zooplankton.html
 format:
   html:
     backgroundcolor: "#fdfdfd"
