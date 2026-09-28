@@ -2,11 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/amlr/amlr.html",
       "/sos/acoustic_glider.html",
       "/sos/acoustic_mooring.html",
-      "/amlr/bio-logger.html",
       "/amlr/cruise.html",
+      "/amlr/bio-logger.html",
+      "/calcofi/calcofi_databases.html",
       "/sos/env_glider.html",
       "/sos/env_mooring.html",
       "/amlr/finfish.html",
@@ -15,11 +15,20 @@
       "/amlr/lipid.html",
       "/sos/optic_glider.html",
       "/amlr/pinniped.html",
-      "/sos/sos.html",
       "/amlr/seabird.html",
       "/amlr/seafloor_imagery.html",
       "/amlr/uas.html",
-      "/amlr/video.html"
+      "/amlr/video.html",
+      "/calcofi/calcofi.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/amlr/amlr.html",
+      "/calcofi/calcofi.html",
+      "/ce/ce.html",
+      "/sos/sos.html"
     ]
   }
 ]

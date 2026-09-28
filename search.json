@@ -1,45 +1,59 @@
 [
   {
-    "objectID": "sos/acoustic_mooring.html",
-    "href": "sos/acoustic_mooring.html",
-    "title": "Active Acoustic Mooring",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "ESD Data Resources",
     "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nSome Google Drive, some GCS Buckets\nNeeds much cleaning time, and archiving.\nHopefully AA SI tie-ins\n\n\n\n\n Back to top"
+    "text": "AMLR\nCalCOFI"
   },
   {
-    "objectID": "sos/optic_glider.html",
-    "href": "sos/optic_glider.html",
-    "title": "Optical Glider Data",
+    "objectID": "resources.html#inport-links",
+    "href": "resources.html#inport-links",
+    "title": "ESD Data Resources",
     "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nblog\n\nImagery all in prod buckets\nInstance of VIAME-Web deployed in prod project: https://swfsc.github.io/viame-web-noaa-gcp/\nERDDAP demo: https://oceanview.pfeg.noaa.gov/erddap/tabledap/esd_amlr_visual_zooplankton.html\nNeeds: See data scientist project\n\n\n\n\n Back to top"
+    "text": "AMLR\nCalCOFI"
   },
   {
-    "objectID": "sos/env_glider.html",
-    "href": "sos/env_glider.html",
-    "title": "Environmental Glider Data",
-    "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nRaw data all in prod buckets. Working through backlog of delayed data\nWhere does data go: https://swfsc.github.io/glider-lab-manual/content/data-management.html\nBase processing with https://github.com/SWFSC/esdglider\nWorking on processing documentation\nGoals:\n\nScience profiles to IOOS, in delayed and moving forward in rt\nOther data products (eg, raw timeseries, full science timeseries, to ESD/SOS-specific ERDDAP\n\n\n\n\n\n Back to top"
+    "objectID": "resources.html#erddap-links",
+    "href": "resources.html#erddap-links",
+    "title": "ESD Data Resources",
+    "section": "ERDDAP links",
+    "text": "ERDDAP links\n\nCalCOFI\nClimate & Ecosystems\nCoastwatch"
   },
   {
-    "objectID": "gcp/gcp.html",
-    "href": "gcp/gcp.html",
-    "title": "GCP",
-    "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nTwo GCP projects managed by Sam:\n\nDev: ggn-nmfs-usamlr-dev-7b99\n\nSam is project/editor, can handle all permissions\n\nProd: ggn-nmfs-swfscesd-prod-1\n\nOCIO grants permissions, although Sam is eg storage.admin\n\nTerraform code: https://github.nmfs.local/sam-woodman/esd-gcp-iac\n\nNeed a) someone else familiar with Terraform and GCP project management, and b) a system for this to work with multiple people managing\n\n\nERDDAP project\n\nDev: ggn-nmfs-swfscerddap-dev-1\n\n\n\n\n\n Back to top"
+    "objectID": "resources.html#web-pages",
+    "href": "resources.html#web-pages",
+    "title": "ESD Data Resources",
+    "section": "Web Pages",
+    "text": "Web Pages\n\nClimate & Ecosystems Projects and Products\nCoastwatch"
   },
   {
-    "objectID": "amlr/seabird.html",
-    "href": "amlr/seabird.html",
-    "title": "Seabird land-based studies",
+    "objectID": "ce/ce.html",
+    "href": "ce/ce.html",
+    "title": "Climate & Ecosystems",
     "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nSeabird Research in the Antarctic\n\nTabular data: Excel ‘database’. Contractor working to migrate to SQL Server\nTrap camera imagery: Shared Drives\nOther: see bio-logger data, UAS imagery, underwater imagery\n\n\n\n\n Back to top"
+    "text": "← Back to ESD Data menu\nData Inventory - no actual data of our own but we serve a lot of data from other Divisions and produce products and web pages"
   },
   {
-    "objectID": "amlr/pinniped.html",
-    "href": "amlr/pinniped.html",
-    "title": "Pinniped land-based studies",
+    "objectID": "ce/ce.html#data-services-and-models",
+    "href": "ce/ce.html#data-services-and-models",
+    "title": "Climate & Ecosystems",
+    "section": "Data Services and Models",
+    "text": "Data Services and Models\n\nSatellite data/CoastWatch\n\nDeveloped specifically for climate and ecosystem work\n\nSpecies Distribution Models\n\nEcoCast\nWhaleWatch\nTurtleWatch (TOTAL)\nTop Predator\nMore/future\n\nCCIEA\n\nIndicator dashboard\nWhale Entanglement dashboard\nESR data uploader\n\nMultiple PI data uploads +Ports data to ERDDAP\n\nESR technical documentation\nImages for IEA/CCIEA project pages\n\nSWFSC/ESD\n\nCalCOFI Farallon Institute Seabirds\nCalCOFI NOAA (lots of stuff!)\nCalCOFI SIO Hydrographic Bottle Data, Cast Data\n\nSWFSC Other Division Products/ Data on inPort\n\nFED\n\nRockfish Cruise data - ERDDAP\nJSATS California Fish Tracking\nThiamine Deficiency in California Salmon\nSacramento River Valley Salmonid Tagging Project\nCalifornia Current Trophic Database (Food Habits, Predator/Prey Taxonomy)\nCalifornia South Delta Acoustic Telemetry\n\n\nFRD\n\nCalifornia Current Pelagic Fish Surveys, 1950-1989 (Bathythermograph, Night Scout Data, Visual Scout Data, Anchovy Schools, Age Data, Length Frequencies, Species Composition)\nBillfish Tagging Program\nCPS Trawl Life History (Haul Catch Data, Specimen Data, Length Frequency Data, Nearshore Set Catch Data, Nearshore Specimen Data)\nInternational Billfish Angler Survey\nCCS Species Distribution Models for coastal pelagic species\nCCS Projections for northern anchovy\nSardine Potential Habitat\nSwordfish, Albacore tuna, Bluefin diet\nHighly Migratory Species (Biomass, REcruitment)\n\nModels: operational running & services/output\n\nMarine Heat Wave (ESD)\nCVTEMP (FED)\nSpecies Distribution Models (ESD)\n\nWeb pages/services"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ESD Data Inventory",
     "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nPinniped Research in the Antarctic\n\nTabular data: SQL Server database, Access front end, Shiny app for access\n\nFront end: https://github.nmfs.local/sam-woodman/amlr-pinnipeds-database\nShiny app: https://github.com/SWFSC/tamatoamlr\n\nSamples: myriad in SWFSC collection, with collaborators\nField archives: Shared Drives\nOther: see bio-logger data, UAS imagery, underwater imagery\nPOC: Sam Woodman\n\n\n\n\n Back to top"
+    "text": "GridTableList\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nActive Acoustic Glider\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nPlaceholder for Active Acoustic Glider Data description\n\n\n\n\n\n\n\n\n\n\n\n\nActive Acoustic Mooring\n\n\n\nSOS\n\nactive\n\nmoorings\n\n\n\nMooring data - active acoustics\n\n\n\n\n\n\n\n\n\n\n\n\nAntarctic Cruise Data\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for cruise data description\n\n\n\n\n\n\n\n\n\n\n\n\nBio-logger\n\n\n\nAMLR\n\nactive\n\n\n\nDeployment of light-based geolocators (GLS) on seabird and pinnipeds\n\n\n\n\n\n\n\n\n\n\n\n\nCalCOFI\n\n\n\nCalCOFI\n\nactive\n\n\n\nCalifornia Cooperative Oceanic Fisheries Investigations\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Glider\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nPlaceholder for Environmental Glider Data description\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Mooring\n\n\n\nSOS\n\nactive\n\nmoorings\n\n\n\nMooring data - environmental\n\n\n\n\n\n\n\n\n\n\n\n\nFinfish trawl surveys\n\n\n\nAMLR\n\nactive\n\n\n\nScientific advice for the management of Antarctic finfish in the Southern Ocean\n\n\n\n\n\n\n\n\n\n\n\n\nGCP\n\n\n\nAMLR\n\nC&E\n\nactive\n\n\n\nGoogle Cloud Platform projects\n\n\n\n\n\n\n\n\n\n\n\n\nKrill Models\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for lipid analysis database description\n\n\n\n\n\n\n\n\n\n\n\n\nLipid analysis database\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for lipid analysis database description\n\n\n\n\n\n\n\n\n\n\n\n\nOptical Glider Data\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nShadowgraph images\n\n\n\n\n\n\n\n\n\n\n\n\nPinniped land-based studies\n\n\n\nAMLR\n\nactive\n\n\n\nPopulation health of Antarctic fur seals in relation to the availability of Antarctic krill.\n\n\n\n\n\n\n\n\n\n\n\n\nSeabird land-based studies\n\n\n\nAMLR\n\nactive\n\n\n\nStudy of three species of penguins (Adélie, chinstrap, and gentoo penguins) and several species of flying seabirds, including skuas and giant petrels.\n\n\n\n\n\n\n\n\n\n\n\n\nSeafloor imagery\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for seafloor imagery description\n\n\n\n\n\n\n\n\n\n\n\n\nUncrewed Aerial Systems (UAS) imagery\n\n\n\nAMLR\n\nactive\n\n\n\nPlaceholder for UAS description\n\n\n\n\n\n\n\n\n\n\n\n\nVideo logger imagery\n\n\n\nAMLR\n\nactive\n\n\n\nUnderwater imagery\n\n\n\n\n\nNo matching items\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Categories\n      \n      \n        Contact\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nContact\n\n\n\nDescription\n\n\n\nCategories\n\n\n\n\n\n\n\n\n\n\n\nGCP\n\n\nSam, Lynn\n\n\nGoogle Cloud Platform projects\n\n\nAMLR, C&E, active\n\n\n\n\n\n\n\n\n\nBio-logger\n\n\nSam\n\n\nDeployment of light-based geolocators (GLS) on seabird and pinnipeds\n\n\nAMLR, active\n\n\n\n\n\n\n\n\n\nFinfish trawl surveys\n\n\nSam\n\n\nScientific advice for the management of Antarctic finfish in the Southern Ocean\n\n\nAMLR, active\n\n\n\n\n\n\n\n\n\nPinniped land-based studies\n\n\nSam\n\n\nPopulation health of Antarctic fur seals in relation to the availability of Antarctic krill.\n\n\nAMLR, active\n\n\n\n\n\n\n\n\n\nSeabird land-based studies\n\n\nSam\n\n\nStudy of three species of penguins (Adélie, chinstrap, and gentoo penguins) and several species of flying seabirds, including skuas and giant petrels.\n\n\nAMLR, active\n\n\n\n\n\n\n\n\n\nUncrewed Aerial Systems (UAS) imagery\n\n\nSam\n\n\nPlaceholder for UAS description\n\n\nAMLR, active\n\n\n\n\n\n\n\n\n\nVideo logger imagery\n\n\nSam\n\n\nUnderwater imagery\n\n\nAMLR, active\n\n\n\n\n\n\n\n\n\nAntarctic Cruise Data\n\n\nSam\n\n\nPlaceholder for cruise data description\n\n\nAMLR, static\n\n\n\n\n\n\n\n\n\nKrill Models\n\n\nSam\n\n\nPlaceholder for lipid analysis database description\n\n\nAMLR, static\n\n\n\n\n\n\n\n\n\nLipid analysis database\n\n\nSam\n\n\nPlaceholder for lipid analysis database description\n\n\nAMLR, static\n\n\n\n\n\n\n\n\n\nSeafloor imagery\n\n\nSam\n\n\nPlaceholder for seafloor imagery description\n\n\nAMLR, static\n\n\n\n\n\n\n\n\n\nCalCOFI\n\n\nEd\n\n\nCalifornia Cooperative Oceanic Fisheries Investigations\n\n\nCalCOFI, active\n\n\n\n\n\n\n\n\n\nActive Acoustic Glider\n\n\nKourtney\n\n\nPlaceholder for Active Acoustic Glider Data description\n\n\nSOS, active, gliders\n\n\n\n\n\n\n\n\n\nEnvironmental Glider\n\n\nKourtney\n\n\nPlaceholder for Environmental Glider Data description\n\n\nSOS, active, gliders\n\n\n\n\n\n\n\n\n\nOptical Glider Data\n\n\nKourtney\n\n\nShadowgraph images\n\n\nSOS, active, gliders\n\n\n\n\n\n\n\n\n\nActive Acoustic Mooring\n\n\nKourtney\n\n\nMooring data - active acoustics\n\n\nSOS, active, moorings\n\n\n\n\n\n\n\n\n\nEnvironmental Mooring\n\n\nKourtney\n\n\nMooring data - environmental\n\n\nSOS, active, moorings\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Categories\n      \n      \n        Contact\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nGCP\n\n\n\nAMLR\n\nC&E\n\nactive\n\n\n\nGoogle Cloud Platform projects\n\n\n\n\n\nSam,Lynn\n\n\ngcp.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nBio-logger\n\n\n\nAMLR\n\nactive\n\n\n\nDeployment of light-based geolocators (GLS) on seabird and pinnipeds\n\n\n\n\n\nSam\n\n\nbio-logger.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nFinfish trawl surveys\n\n\n\nAMLR\n\nactive\n\n\n\nScientific advice for the management of Antarctic finfish in the Southern Ocean\n\n\n\n\n\nSam\n\n\nfinfish.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nPinniped land-based studies\n\n\n\nAMLR\n\nactive\n\n\n\nPopulation health of Antarctic fur seals in relation to the availability of Antarctic krill.\n\n\n\n\n\nSam\n\n\npinniped.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nSeabird land-based studies\n\n\n\nAMLR\n\nactive\n\n\n\nStudy of three species of penguins (Adélie, chinstrap, and gentoo penguins) and several species of flying seabirds, including skuas and giant petrels.\n\n\n\n\n\nSam\n\n\nseabird.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nUncrewed Aerial Systems (UAS) imagery\n\n\n\nAMLR\n\nactive\n\n\n\nPlaceholder for UAS description\n\n\n\n\n\nSam\n\n\nuas.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nVideo logger imagery\n\n\n\nAMLR\n\nactive\n\n\n\nUnderwater imagery\n\n\n\n\n\nSam\n\n\nvideo.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nAntarctic Cruise Data\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for cruise data description\n\n\n\n\n\nSam\n\n\ncruise.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nKrill Models\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for lipid analysis database description\n\n\n\n\n\nSam\n\n\nkrill.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nLipid analysis database\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for lipid analysis database description\n\n\n\n\n\nSam\n\n\nlipid.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nSeafloor imagery\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for seafloor imagery description\n\n\n\n\n\nSam\n\n\nseafloor_imagery.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nCalCOFI\n\n\n\nCalCOFI\n\nactive\n\n\n\nCalifornia Cooperative Oceanic Fisheries Investigations\n\n\n\n\n\nEd\n\n\ncalcofi.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nCalCOFI\n\n\n\nCalCOFI\n\nactive\n\n\n\nCalifornia Cooperative Oceanic Fisheries Investigations\n\n\n\n\n\nEd\n\n\ncalcofi_databases.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nActive Acoustic Glider\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nPlaceholder for Active Acoustic Glider Data description\n\n\n\n\n\nKourtney\n\n\nacoustic_glider.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Glider\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nPlaceholder for Environmental Glider Data description\n\n\n\n\n\nKourtney\n\n\nenv_glider.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nOptical Glider Data\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nShadowgraph images\n\n\n\n\n\nKourtney\n\n\noptic_glider.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nActive Acoustic Mooring\n\n\n\nSOS\n\nactive\n\nmoorings\n\n\n\nMooring data - active acoustics\n\n\n\n\n\nKourtney\n\n\nacoustic_mooring.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Mooring\n\n\n\nSOS\n\nactive\n\nmoorings\n\n\n\nMooring data - environmental\n\n\n\n\n\nKourtney\n\n\nenv_mooring.qmd\n\n\n9/28/26, 5:15:00 PM\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "amlr/video.html",
+    "href": "amlr/video.html",
+    "title": "Video logger imagery",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nShared Drives\ncams\n\npenguin cam (active)\nAFS cam (not active)\nleopard seal critter cam (not active)\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "amlr/seafloor_imagery.html",
@@ -51,30 +65,9 @@
   {
     "objectID": "amlr/cruise.html",
     "href": "amlr/cruise.html",
-    "title": "Cruise Data",
+    "title": "Antarctic Cruise Data",
     "section": "",
     "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nHydrography(?)\n\nSQL Server database on Estrella\n**needs archiving\n\n\n\nAcoustics\n\nFiles in Shared Drive\nneeds archiving\n\n\n\nNon-AMLR cruise data\n\nSQL Server database on Estrella, restricted access. No front end\nData shared by collaborators - no archiving\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "amlr/amlr.html",
-    "href": "amlr/amlr.html",
-    "title": "AMLR",
-    "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nSince 1986, the Antarctic Marine Living Resources (AMLR) Program, managed by the Antarctic Ecosystem Resources Division (AERD) of the SWFSC, has conducted field studies in Antarctic waters to investigate the effects of krill, crab, and finfish fisheries on the ecosystem, including effects on seal and seabird populations. The studies include annual 1-3 month research vessel surveys (through the 2016/17 field season) to map krill distribution and abundance, and to measure environmental variables influencing krill in a study area off the Antarctic Peninsula, research at land stations to determine effects of fishing on seal and seabird populations during their reproductive cycles, and pelagic and bottom trawl surveys in the Antarctic Peninsula area to investigate direct effects of a finfish fishery. In support of these studies, a large number of discrete data sets (biological and environmental) have been generated by the AMLR Program. Data types are varied, including output from analyses of active acoustic records, results from processing plankton net samples, oceanographic station data, data derived from discrete water samples, continuous environmental data records, finfish population parameters and benthic invertebrate densities from bottom trawl surveys, demographic data for fur seals and penguins, and meteorological conditions. Purpose\nThe Antarctic Marine Living Resources (AMLR) Convention Act of 1984 provided the legislative authority to establish the U.S. AMLR Program. This national program provides information needed for the development and support of U.S. policy regarding the conservation and management of the marine living resources in the ocean areas surrounding Antarctica.\nMore Information\nData in InPort\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "amlr/krill.html",
-    "href": "amlr/krill.html",
-    "title": "Krill Models",
-    "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nPublished models\n\nCasal2 krill model\nMCMC analysis using Casal2 of krill spawning stock biomass and CCAMLR decision rules\nkrill length-frequencies from penguin diets years 1977-2020 added to model described in ’Casal-krill-model-mcmc\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "amlr/video.html",
-    "href": "amlr/video.html",
-    "title": "Video logger imagery",
-    "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nShared Drives\ncams\n\npenguin cam (active)\nAFS cam (not active)\nleopard seal critter cam (not active)\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "amlr/lipid.html",
@@ -84,20 +77,6 @@
     "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nLocal MS Access file, archived and in Shared Drive\nLipid content and stable isotopes of zooplankton during five winters around the northern Antarctic Peninsula\n\n\n\n Back to top"
   },
   {
-    "objectID": "amlr/uas.html",
-    "href": "amlr/uas.html",
-    "title": "Uncrewed Aerial Systems (UAS) imagery",
-    "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nShared Drives\nNot actively used\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "amlr/bio-logger.html",
-    "href": "amlr/bio-logger.html",
-    "title": "Bio-logger",
-    "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nData is scattered. On its way to Shared Drives.\nSubsections have been archived\nHigh priority, needs much cleaning time, and archiving\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "amlr/finfish.html",
     "href": "amlr/finfish.html",
     "title": "Finfish trawl surveys",
@@ -105,21 +84,60 @@
     "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nLocal files, on their way to Shared Drives\nFinfish and Benthic Research in the Antarctic\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ESD Data Inventory",
+    "objectID": "sos/acoustic_glider.html",
+    "href": "sos/acoustic_glider.html",
+    "title": "Active Acoustic Glider",
     "section": "",
-    "text": "AMLR\n\n\n\nAMLR\n\nstatic\n\n\n\nUS Antarctic Maine Living Research Program\n\n\n\n\n\n\n\n\n\n\n\n\nActive Acoustic Glider Data\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nPlaceholder for Active Acoustic Glider Data description\n\n\n\n\n\n\n\n\n\n\n\n\nActive Acoustic Mooring\n\n\n\nSOS\n\nactive\n\nmoorings\n\n\n\nMooring data - active acoustics\n\n\n\n\n\n\n\n\n\n\n\n\nBio-logger\n\n\n\nAMLR\n\nactive\n\n\n\nDeployment of light-based geolocators (GLS) on seabird and pinnipeds\n\n\n\n\n\n\n\n\n\n\n\n\nCruise Data\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for cruise data description\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Glider Data\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nPlaceholder for Environmental Glider Data description\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Mooring\n\n\n\nSOS\n\nactive\n\nmoorings\n\n\n\nMooring data - environmental\n\n\n\n\n\n\n\n\n\n\n\n\nFinfish trawl surveys\n\n\n\nAMLR\n\nactive\n\n\n\nScientific advice for the management of Antarctic finfish in the Southern Ocean\n\n\n\n\n\n\n\n\n\n\n\n\nGCP\n\n\n\nAMLR\n\nC&E\n\nactive\n\n\n\nGoogle Cloud Platform projects\n\n\n\n\n\n\n\n\n\n\n\n\nKrill Models\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for lipid analysis database description\n\n\n\n\n\n\n\n\n\n\n\n\nLipid analysis database\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for lipid analysis database description\n\n\n\n\n\n\n\n\n\n\n\n\nOptical Glider Data\n\n\n\nSOS\n\nactive\n\ngliders\n\n\n\nShadowgraph images\n\n\n\n\n\n\n\n\n\n\n\n\nPinniped land-based studies\n\n\n\nAMLR\n\nactive\n\n\n\nPopulation health of Antarctic fur seals in relation to the availability of Antarctic krill.\n\n\n\n\n\n\n\n\n\n\n\n\nSOS\n\n\n\nSOS\n\nactive\n\ngliders\n\nmoorings\n\n\n\nScientific Operations and Support\n\n\n\n\n\n\n\n\n\n\n\n\nSeabird land-based studies\n\n\n\nAMLR\n\nactive\n\n\n\nStudy of three species of penguins (Adélie, chinstrap, and gentoo penguins) and several species of flying seabirds, including skuas and giant petrels.\n\n\n\n\n\n\n\n\n\n\n\n\nSeafloor imagery\n\n\n\nAMLR\n\nstatic\n\n\n\nPlaceholder for seafloor imagery description\n\n\n\n\n\n\n\n\n\n\n\n\nUncrewed Aerial Systems (UAS) imagery\n\n\n\nAMLR\n\nactive\n\n\n\nPlaceholder for UAS description\n\n\n\n\n\n\n\n\n\n\n\n\nVideo logger imagery\n\n\n\nAMLR\n\nactive\n\n\n\nUnderwater imagery\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Home"
-    ]
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nData in dev buckets\nHopefully AA SI tie-ins, both for archiving and AI/ML processing\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "sos/acoustic_mooring.html",
+    "href": "sos/acoustic_mooring.html",
+    "title": "Active Acoustic Mooring",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nSome Google Drive, some GCS Buckets\nNeeds much cleaning time, and archiving.\nHopefully AA SI tie-ins\n\n\n\n\n Back to top"
   },
   {
     "objectID": "sos/sos.html",
     "href": "sos/sos.html",
     "title": "SOS",
     "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nThe SOS group uses multiple autonomous marine platforms to gather physical, chemical, and biological ocean data. This data is essential for long-term ecosystem monitoring and supporting fisheries management in regions like the California Current and the Antarctic Peninsula.\nGlider Lab Manual\nGlider and Mooring Database\n\nGlider & mooring devices/builds/deployments\n\nSQL Server database on Estrella to track devices/builds. Access front end.\n\nFront end: https://github.nmfs.local/sam-woodman/amlr-technology-database\nWould looove to move away from SQL Server, and Access, to something more wholistic.\n\nesdglider scrapes info from database\n\nFleet Status (working to move away from this)\n\n\n\n\n Back to top"
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nThe SOS group uses multiple autonomous marine platforms to gather physical, chemical, and biological ocean data. This data is essential for long-term ecosystem monitoring and supporting fisheries management in regions like the California Current and the Antarctic Peninsula.\nGlider Lab Manual\nGlider and Mooring Database\n\nGlider & mooring devices/builds/deployments\n\nSQL Server database on Estrella to track devices/builds. Access front end.\n\nFront end: https://github.nmfs.local/sam-woodman/amlr-technology-database\nWould looove to move away from SQL Server, and Access, to something more wholistic.\n\nesdglider scrapes info from database\n\nFleet Status (working to move away from this)\n\nPerhaps add who does what?\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "calcofi/calcofi_databases.html",
+    "href": "calcofi/calcofi_databases.html",
+    "title": "CalCOFI",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nCalCOFI DB - Ichthyoplankton tows conducted using standardized CalCOFI methods (not just CalCOFI cruises proper, e.g. trawl cruises), 1951 to present. Primarily bongo tows but also manta, Calvet/pairovet, and a smattering of others.\nSQL Server DB on estrella-g\nCUFES - Continuous Underway Fish-Egg Sampler data, 1996-present. SQL Server DB on estrella-g\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "gcp/gcp.html",
+    "href": "gcp/gcp.html",
+    "title": "GCP",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nTwo GCP projects managed by Sam:\n\nDev: ggn-nmfs-usamlr-dev-7b99\n\nSam is project/editor, can handle all permissions\n\nProd: ggn-nmfs-swfscesd-prod-1\n\nOCIO grants permissions, although Sam is eg storage.admin\n\nTerraform code: https://github.nmfs.local/sam-woodman/esd-gcp-iac\n\nNeed a) someone else familiar with Terraform and GCP project management, and b) a system for this to work with multiple people managing\n\n\nERDDAP project\n\nDev: ggn-nmfs-swfscerddap-dev-1\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "calcofi/calcofi.html",
+    "href": "calcofi/calcofi.html",
+    "title": "CalCOFI",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nStewardship\n\nEd is the db manager for NOAA. All CalCOFI staff currently assisting with data entry\nWorking closely with Erin Satterthwaite, Ben Best, and others at Scripps\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "sos/env_glider.html",
+    "href": "sos/env_glider.html",
+    "title": "Environmental Glider",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nRaw data all in prod buckets. Working through backlog of delayed data\nWhere does data go: https://swfsc.github.io/glider-lab-manual/content/data-management.html\nBase processing with https://github.com/SWFSC/esdglider\nWorking on processing documentation\nGoals:\n\nScience profiles to IOOS, in delayed and moving forward in rt\nOther data products (eg, raw timeseries, full science timeseries, to ESD/SOS-specific ERDDAP\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "sos/optic_glider.html",
+    "href": "sos/optic_glider.html",
+    "title": "Optical Glider Data",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nblog\n\nImagery all in prod buckets\nInstance of VIAME-Web deployed in prod project: https://swfsc.github.io/viame-web-noaa-gcp/\nERDDAP demo: https://oceanview.pfeg.noaa.gov/erddap/tabledap/esd_amlr_visual_zooplankton.html\nNeeds: See data scientist project\n\n\n\n\n Back to top"
   },
   {
     "objectID": "sos/env_mooring.html",
@@ -129,10 +147,59 @@
     "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nSome Google Drive, some GCS Buckets\nNeeds much cleaning time, and archiving\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "sos/acoustic_glider.html",
-    "href": "sos/acoustic_glider.html",
-    "title": "Active Acoustic Glider Data",
+    "objectID": "amlr/amlr.html",
+    "href": "amlr/amlr.html",
+    "title": "AMLR",
     "section": "",
-    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nData in dev buckets\nHopefully AA SI tie-ins, both for archiving and AI/ML processing\n\n\n\n\n Back to top"
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nDescription of the overall organization of the AMLR data.\nWho does what?\nCloud locations, etc.?\nLinks such as this:\nData in InPort\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "amlr/bio-logger.html",
+    "href": "amlr/bio-logger.html",
+    "title": "Bio-logger",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nData is scattered. On its way to Shared Drives.\nSubsections have been archived\nHigh priority, needs much cleaning time, and archiving\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "amlr/pinniped.html",
+    "href": "amlr/pinniped.html",
+    "title": "Pinniped land-based studies",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nPinniped Research in the Antarctic\n\nTabular data: SQL Server database, Access front end, Shiny app for access\n\nFront end: https://github.nmfs.local/sam-woodman/amlr-pinnipeds-database\nShiny app: https://github.com/SWFSC/tamatoamlr\n\nSamples: myriad in SWFSC collection, with collaborators\nField archives: Shared Drives\nOther: see bio-logger data, UAS imagery, underwater imagery\nPOC: Sam Woodman\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "amlr/krill.html",
+    "href": "amlr/krill.html",
+    "title": "Krill Models",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nPublished models\n\nCasal2 krill model\nMCMC analysis using Casal2 of krill spawning stock biomass and CCAMLR decision rules\nkrill length-frequencies from penguin diets years 1977-2020 added to model described in ’Casal-krill-model-mcmc\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "amlr/seabird.html",
+    "href": "amlr/seabird.html",
+    "title": "Seabird land-based studies",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\nSeabird Research in the Antarctic\n\nTabular data: Excel ‘database’. Contractor working to migrate to SQL Server\nTrap camera imagery: Shared Drives\nOther: see bio-logger data, UAS imagery, underwater imagery\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "amlr/uas.html",
+    "href": "amlr/uas.html",
+    "title": "Uncrewed Aerial Systems (UAS) imagery",
+    "section": "",
+    "text": "← Back to ESD Data menu\n  \n\n\n\n\n\n\nShared Drives\nNot actively used\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Staff",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Ecosystem Science Division Groups",
+    "section": "",
+    "text": "AMLR\n\n\n\nAMLR\n\nstatic\n\n\n\nUS Antarctic Maine Living Research Program\n\n\n\n\n\n\n\n\n\n\n\n\nCalCOFI\n\n\n\nCalCOFI\n\nactive\n\n\n\nCalifornia Cooperative Oceanic Fisheries Investigations\n\n\n\n\n\n\n\n\n\n\n\n\nClimate & Ecosystems\n\n\n\nC&E\n\n\n\nData Services and Operational Models\n\n\n\n\n\n\n\n\n\n\n\n\nSOS\n\n\n\nSOS\n\nactive\n\ngliders\n\nmoorings\n\n\n\nScientific Operations and Support\n\n\n\n\n\nNo matching items\n Back to top"
   }
 ]
