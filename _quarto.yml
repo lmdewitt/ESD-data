@@ -67,6 +67,9 @@ website:
             href: https://oceanview.pfeg.noaa.gov/erddap/search/advanced.html?searchFor=erdCalCOFI
           - text: "Shadowgraph"
             href: https://oceanview.pfeg.noaa.gov/erddap/tabledap/esd_amlr_visual_zooplankton.html
+      - section: "Repositories"
+        contents:
+          - text: "Some GitHub links"
 format:
   html:
     backgroundcolor: "#fdfdfd"

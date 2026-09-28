@@ -1,6 +1,6 @@
 ---
-title: "ESD Data Inventory"
-subtitle: "NOAA Fisheries - Southwest Fisheries Science Center - Ecosystem Science Division"
+title: "NOAA Fisheries - Southwest Fisheries Science Center - Ecosystem Science Division"
+subtitle: "Data Inventory"
 sidebar: main-docs
 page-layout: full
 format:
