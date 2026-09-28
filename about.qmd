@@ -1,0 +1,25 @@
+---
+title: "Ecosystem Science Division Groups"
+sidebar: main-docs
+page-layout: full
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+listing:
+  - id: bygrid
+    type: grid
+    grid-columns: 4
+    grid-item-align: center
+    categories: false
+    page-size: 32
+    filter-ui: true
+    fields: [image,title,description,categories]
+    contents:
+      - "amlr/amlr.qmd"
+      - "sos/sos.qmd"
+      - "calcofi/calcofi.qmd"
+      - "ce/ce.qmd"
+---

@@ -10,6 +10,7 @@ format:
 image: images/bottom_trawl.jpg
 categories: [AMLR,active]
 description: Scientific advice for the management of Antarctic finfish in the Southern Ocean
+contact: Sam
 ---
 
 Local files, on their way to Shared Drives

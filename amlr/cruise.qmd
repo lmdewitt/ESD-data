@@ -1,5 +1,5 @@
 ---
-title: "Cruise Data"
+title: "Antarctic Cruise Data"
 sidebar: main-docs
 format:
   html:
@@ -10,6 +10,7 @@ format:
 image: images/cruise.jpg
 categories: [AMLR,static]
 description: Placeholder for cruise data description
+contact: Sam
 ---
 
 ### Hydrography(?)

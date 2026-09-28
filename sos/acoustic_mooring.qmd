@@ -10,6 +10,7 @@ format:
 image: images/acoustic_mooring.png
 categories: [SOS,active,moorings]
 description: Mooring data - active acoustics
+contact: Kourtney
 ---
 
 * Some Google Drive, some GCS Buckets

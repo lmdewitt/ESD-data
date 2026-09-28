@@ -10,6 +10,7 @@ format:
 image: images/krill.jpg
 categories: [AMLR,static]
 description: Placeholder for lipid analysis database description
+contact: Sam
 ---
 
 Published models

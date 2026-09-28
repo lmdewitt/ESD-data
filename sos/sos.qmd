@@ -23,3 +23,7 @@ description: Scientific Operations and Support
     + Would looove to move away from SQL Server, and Access, to something more wholistic.
   - esdglider scrapes info from database
 * [Fleet Status](https://docs.google.com/spreadsheets/d/1tB3QNKYx8qOYYS9QZotekBAx0y-_n2d-EZPjFFdYNuU/edit?gid=0#gid=0) (working to move away from this)
+
+Perhaps add who does what?
+
+

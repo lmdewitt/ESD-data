@@ -10,6 +10,7 @@ format:
 image: images/video.png
 categories: [AMLR,active]
 description:  Underwater imagery
+contact: Sam
 ---
 
 * Shared Drives

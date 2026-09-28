@@ -1,5 +1,5 @@
 ---
-title: "Environmental Glider Data"
+title: "Environmental Glider"
 sidebar: main-docs
 format:
   html:
@@ -10,6 +10,7 @@ format:
 image: images/env_glider.png
 categories: [SOS,active,gliders]
 description: Placeholder for Environmental Glider Data description
+contact: Kourtney
 ---
 
 * Raw data all in prod buckets. Working through backlog of delayed data

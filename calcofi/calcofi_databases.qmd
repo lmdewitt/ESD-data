@@ -1,0 +1,18 @@
+---
+title: "CalCOFI"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/calcofi.png
+categories: [CalCOFI,active]
+description: California Cooperative Oceanic Fisheries Investigations
+contact: Ed
+---
+
+* CalCOFI DB - Ichthyoplankton tows conducted using standardized CalCOFI methods (not just CalCOFI cruises proper, e.g. trawl cruises), 1951 to present. Primarily bongo tows but also manta, Calvet/pairovet, and a smattering of others.
+* SQL Server DB on estrella-g
+* CUFES - Continuous Underway Fish-Egg Sampler data, 1996-present. SQL Server DB on estrella-g

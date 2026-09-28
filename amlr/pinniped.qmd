@@ -10,6 +10,7 @@ format:
 image: images/seals.jpg
 categories: [AMLR,active]
 description: Population health of Antarctic fur seals in relation to the availability of Antarctic krill. 
+contact: Sam
 ---
 
 [Pinniped Research in the Antarctic](https://www.fisheries.noaa.gov/international/science-data/pinniped-research-antarctic)

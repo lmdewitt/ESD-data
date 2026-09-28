@@ -1,0 +1,61 @@
+---
+title: "Climate & Ecosystems"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/SST.png
+categories: [C&E]
+description: Data Services and Operational Models
+---
+
+Data Inventory - no actual data of our own but we serve a lot of data from other Divisions and produce products and web pages
+
+## Data Services and Models
+
+* Satellite data/CoastWatch
+  - Developed specifically for climate and ecosystem work
+* Species Distribution Models
+  - EcoCast
+  - WhaleWatch
+  - TurtleWatch (TOTAL)
+  - Top Predator
+  - More/future
+* CCIEA
+  - Indicator dashboard
+  - Whale Entanglement dashboard
+  - ESR data uploader
+    + Multiple PI data uploads
+    +Ports data to ERDDAP
+  - ESR technical documentation
+  - Images for IEA/CCIEA project pages
+* SWFSC/ESD
+  - CalCOFI Farallon Institute Seabirds
+  - CalCOFI NOAA (lots of stuff!)
+  - CalCOFI SIO Hydrographic Bottle Data, Cast Data
+* SWFSC Other Division Products/ Data on inPort
+  - FED
+    + Rockfish Cruise data - ERDDAP
+    + JSATS California Fish Tracking
+    + Thiamine Deficiency in California Salmon 
+    + Sacramento River Valley Salmonid Tagging Project
+    + California Current Trophic Database (Food Habits, Predator/Prey Taxonomy)
+    + California South Delta Acoustic Telemetry
+* FRD
+    + California Current Pelagic Fish Surveys, 1950-1989 (Bathythermograph, Night Scout Data, Visual Scout Data, Anchovy Schools, Age Data, Length Frequencies, Species Composition)
+    + Billfish Tagging Program
+    + CPS Trawl Life History (Haul Catch Data, Specimen Data, Length Frequency Data, Nearshore Set Catch Data, Nearshore Specimen Data)
+    + International Billfish Angler Survey
+    + CCS Species Distribution Models for coastal pelagic species 
+    + CCS Projections for northern anchovy 
+    + Sardine Potential Habitat
+    + Swordfish, Albacore tuna, Bluefin diet
+    + Highly Migratory Species (Biomass, REcruitment)
+* Models: operational running & services/output
+    + Marine Heat Wave (ESD)
+    + CVTEMP (FED)
+    + Species Distribution Models (ESD)
+* Web pages/services

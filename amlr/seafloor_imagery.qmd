@@ -10,6 +10,7 @@ format:
 image: images/seafloor_imagery.png
 categories: [AMLR,static]
 description: Placeholder for seafloor imagery description
+contact: Sam
 ---
 
 Shared Drives

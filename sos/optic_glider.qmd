@@ -10,6 +10,7 @@ format:
 image: images/shadowgraph.png
 categories: [SOS,active,gliders]
 description: Shadowgraph images
+contact: Kourtney
 ---
 
 [blog](https://www.fisheries.noaa.gov/science-blog/fear-unknown-and-how-unknown-becomes-known-you-know)

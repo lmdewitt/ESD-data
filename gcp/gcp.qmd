@@ -10,6 +10,7 @@ format:
 image: images/gcp.png
 categories: [AMLR,C&E,active]
 description:  Google Cloud Platform projects
+contact: [Sam, Lynn]
 ---
 
 * Two GCP projects managed by Sam: 

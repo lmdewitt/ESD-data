@@ -1,0 +1,27 @@
+---
+title: "ESD Data Resources"
+sidebar: main-docs
+age-layout: full
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+---
+
+## InPort Links
+
+* [AMLR](https://www.fisheries.noaa.gov/inport/item/10759)
+* [CalCOFI](https://www.fisheries.noaa.gov/inport/q?keywords=CalCOFI%7EFRD&orgId=1060&itemTypeAll=on)
+
+## ERDDAP links
+
+* [CalCOFI](https://oceanview.pfeg.noaa.gov/erddap/search/index.html?&searchFor=erdCalCOFI)
+* [Climate & Ecosystems](https://oceanview.pfeg.noaa.gov/erddap)
+* [Coastwatch](https://coastwatch.pfeg.noaa.gov/erddap)
+
+## Web Pages
+
+* [Climate & Ecosystems Projects and Products](https://lmdewitt.github.io/CEG-projects/)
+* [Coastwatch](https://coastwatch-wcn.github.io/)

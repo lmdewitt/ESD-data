@@ -1,0 +1,38 @@
+<!-- clear-filter.html -->
+<script type="text/javascript">
+
+document.addEventListener("DOMContentLoaded", function() {
+  const categoryList = document.querySelector(".quarto-listing-category");
+  if (categoryList) {
+    // Create an "All" link element
+    const allItem = document.createElement("div");
+    allItem.className = "category";
+    allItem.style.cursor = "pointer";
+    allItem.style.fontWeight = 600;
+    allItem.innerText = "All";
+
+    allItem.addEventListener("click", function(event) {
+      event.preventDefault();
+      event.stopPropagation();
+      
+      // 1. Trigger Quarto's engine to instantly reset the layout
+      if (typeof window.quartoListingCategory === 'function') {
+        window.quartoListingCategory(""); 
+      } else {
+        const activeCategory = categoryList.querySelector(".category.active");
+        if (activeCategory) activeCategory.click();
+      }
+      
+      // 2. Wait 10 milliseconds for Quarto to finish writing its state, 
+      // then forcefully strip the leftover hash out of the address bar
+      setTimeout(function() {
+        const cleanUrl = window.location.origin + window.location.pathname + window.location.search;
+        window.history.replaceState(null, document.title, cleanUrl);
+      }, 10);
+    });
+    
+    categoryList.insertBefore(allItem, categoryList.firstChild);
+  }
+});
+
+</script>

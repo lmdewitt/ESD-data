@@ -10,6 +10,7 @@ format:
 image: images/lipid.png
 categories: [AMLR,static]
 description: Placeholder for lipid analysis database description
+contact: Sam
 ---
 
 Local MS Access file, archived and in Shared Drive

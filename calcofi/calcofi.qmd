@@ -1,0 +1,18 @@
+---
+title: "CalCOFI"
+sidebar: main-docs
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    grid:
+      body-width: 1200px
+image: images/calcofi.png
+categories: [CalCOFI,active]
+description: California Cooperative Oceanic Fisheries Investigations
+contact: Ed
+---
+
+* Stewardship
+  - Ed is the db manager for NOAA. All CalCOFI staff currently assisting with data entry
+  - Working closely with Erin Satterthwaite, Ben Best, and others at Scripps

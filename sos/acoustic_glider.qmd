@@ -1,5 +1,5 @@
 ---
-title: "Active Acoustic Glider Data"
+title: "Active Acoustic Glider"
 sidebar: main-docs
 format:
   html:
@@ -10,6 +10,7 @@ format:
 image: images/acoustic_glider.png
 categories: [SOS,active,gliders]
 description: Placeholder for Active Acoustic Glider Data description
+contact: Kourtney
 ---
 
 * Data in dev buckets

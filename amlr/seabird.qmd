@@ -10,6 +10,7 @@ format:
 image: images/seabird.jpg
 categories: [AMLR,active]
 description: Study of three species of penguins (Adélie, chinstrap, and gentoo penguins) and several species of flying seabirds, including skuas and giant petrels.
+contact: Sam
 ---
 
 [Seabird Research in the Antarctic](https://www.fisheries.noaa.gov/international/science-data/seabird-research-antarctic)
